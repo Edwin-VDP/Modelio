@@ -15,7 +15,6 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="Naturel" mc="Standard.Class" uid="1e5a921b-e8e3-428a-9d64-99bc961ba88f"/>
-        <COMPID name="Cellule" mc="Standard.Class" uid="fac3a7ec-eefc-4716-8fb6-d656f8f5f654"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="tp5 Class diagram" mc="Standard.ClassDiagram" uid="fa4f2449-b172-4589-a503-7f5f28be462c"/>
