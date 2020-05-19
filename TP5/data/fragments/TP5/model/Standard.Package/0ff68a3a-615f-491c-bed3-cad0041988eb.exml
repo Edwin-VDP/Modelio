@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="tp5" version="4">
+  <OBJECT>
+    <ID name="tp5" mc="Standard.Package" uid="0ff68a3a-615f-491c-bed3-cad0041988eb"/>
+    <PID name="TP5" mc="Standard.Project" uid="3811c3d1-b3d7-4478-9af2-7036d50ced2c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[tp5]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Naturel" mc="Standard.Class" uid="1e5a921b-e8e3-428a-9d64-99bc961ba88f"/>
+        <COMPID name="Cellule" mc="Standard.Class" uid="fac3a7ec-eefc-4716-8fb6-d656f8f5f654"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="tp5 Class diagram" mc="Standard.ClassDiagram" uid="fa4f2449-b172-4589-a503-7f5f28be462c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
